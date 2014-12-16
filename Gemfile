@@ -35,7 +35,7 @@ gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
-     gem 'sqlite3'
+     #gem 'sqlite3'
 end
 group :production do
      gem 'pg'
