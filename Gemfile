@@ -34,7 +34,7 @@ gem 'paperclip', '~> 4.2.1'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'newrelic_rpm'
-
+gem 'aws-sdk', '~> 1.59.1'
 group :development, :test do
      #gem 'sqlite3'
 end
